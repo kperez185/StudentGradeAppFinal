@@ -1,0 +1,5 @@
+﻿  Student.cpp
+  StudentGradeJavaKPS.cpp
+  Generating Code...
+C:\Users\wrl120u\source\repos\StudentGradeJavaKPS\StudentGradeJavaKPS\Student.cpp(65): warning C4715: 'Student::getLetterGrade': not all control paths return a value
+  StudentGradeJavaKPS.vcxproj -> C:\Users\wrl120u\source\repos\StudentGradeJavaKPS\Debug\StudentGradeJavaKPS.exe
